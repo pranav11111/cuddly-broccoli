@@ -1,0 +1,12 @@
+langchain
+ipykernel
+dotenv
+langchain-groq
+langchain-core
+langchain-chroma
+langchain-huggingface
+fastapi
+uvicorn
+langserve
+pydantic==2.9.2
+langchain_community
